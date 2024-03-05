@@ -5,7 +5,7 @@ All scripts are Jupiter notebook files (.ipynb)
 Included in the zip file you can find 3 csv files and 3 .ipynb:
 
 	CSV Files:
-		spotify_data.csv #original Spotify data provided by the course
+		spotify_data.csv #original Spotify dataset from Kaggle
 		all.csv #country names + codes
 
 	.ipynb Files:
